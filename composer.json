@@ -13,5 +13,15 @@
         "issues": "https://github.com/uemgbr/sdk.php/issues",
         "source": "https://github.com/uemgbr/sdk.php",
         "wiki": "https://github.com/uemgbr/sdk.php/wiki"
-    }
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Uemg\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
