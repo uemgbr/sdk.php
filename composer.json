@@ -1,0 +1,17 @@
+{
+    "name": "uemg/sdk",
+    "description": "O kit de desenvolvimento da UEMG",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jonas F. Lopes",
+            "email": "jonas.lopes@uemg.br"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/uemgbr/sdk.php/issues",
+        "source": "https://github.com/uemgbr/sdk.php",
+        "wiki": "https://github.com/uemgbr/sdk.php/wiki"
+    }
+}
